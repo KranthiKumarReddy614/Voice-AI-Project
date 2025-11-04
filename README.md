@@ -17,3 +17,4 @@ this is for Voice AI Project using Python
 ```bash
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
+use the above command in the terminal to create a environment for the project becuase this repository has only few environment files if you want total setup use this command then you will get full setup. 
