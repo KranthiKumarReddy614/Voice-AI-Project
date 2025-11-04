@@ -17,4 +17,3 @@ this is for Voice AI Project using Python
 ```bash
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
-
